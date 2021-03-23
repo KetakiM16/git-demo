@@ -10,7 +10,7 @@
     "url": "git+https://github.com/ketaki007/git-demo.git"
   },
   "bin": {
-    "myMkdir": "myMkdir.js"
+    "Mkdir": "myMkdir.js"
   },
   "author": "",
   "license": "ISC",
