@@ -24,7 +24,7 @@ let fs = require("fs");
 
 
 } catch(err){
-    console.log("sorry error occured,possibly n is greter than expected")
+    console.log("sorry error occured,possibly n is greter than expected or file did not exist")
 }
 
 })();
