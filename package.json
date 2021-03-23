@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "myMkdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketaki007/git-demo.git"
+  },
+  "bin": {
+    "myMkdir": "myMkdir.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketaki007/git-demo/issues"
+  },
+  "homepage": "https://github.com/ketaki007/git-demo#readme",
+  "description": ""
+}
